@@ -2,7 +2,9 @@
 
   pendiente de probart opciones : https://www.linux.com/learn/creating-pdf-files-ps2pdf  
   `ps2pdf -dPDFSETTINGS=/printer galleyProof.ps  
-  ps2pdf -dUseFlateCompression=true greatNovel.ps  
+  
+  ps2pdf -dUseFlateCompression=true greatNovel.ps
+  
   ps2pdf -dOptimize=true report.ps`  
 
   pendiente de probart opciones : https://www.volkerschatz.com/tex/hiqpdf.html  
